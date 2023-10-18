@@ -95,7 +95,7 @@ const App: React.FC = () => {
           </button>
         </div>
       </section>
-      <iframe src="https://lendasbet.com/cassino?event=initiate-register&btag=undefined"></iframe>
+      <iframe src="https://bit.ly/LENDASBETBONUS"></iframe>
       <div>
         <h2>
           <span style={{ color: "green", fontSize: "27px" }}>
