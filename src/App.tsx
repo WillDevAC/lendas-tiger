@@ -96,36 +96,6 @@ const App: React.FC = () => {
         </div>
       </section>
       <iframe src="https://bit.ly/LENDASBETBONUS"></iframe>
-      <div>
-        <h2>
-          <span style={{ color: "green", fontSize: "27px" }}>
-            VEJA O TUTORIAL ABAIXO
-          </span>{" "}
-          CASO TENHA DÚVIDAS DE COMO{" "}
-          <span style={{ color: "green" }}>GANHAR</span> SEUS{" "}
-          <span style={{ color: "green" }}>R$ 500,00</span> AINDA HOJE 📲⤵️
-        </h2>
-      </div>
-      <div id="video">
-        <div
-          style={{ padding: "178.21782178217822% 0 0 0", position: "relative" }}
-        >
-          <iframe
-            frameBorder="0"
-            allowFullScreen
-            src="https://scripts.converteai.net/cd39548a-763c-472c-8980-8246cf6c23e3/players/64efe4dd909f89000a8fda73/embed.html"
-            id="ifr_64efe4dd909f89000a8fda73"
-            style={{
-              position: "absolute",
-              top: "0",
-              left: "0",
-              width: "100%",
-              height: "100%",
-            }}
-            referrerPolicy="origin"
-          ></iframe>
-        </div>
-      </div>
     </main>
   );
 };
